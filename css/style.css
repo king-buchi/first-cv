@@ -1,0 +1,15 @@
+body {
+  background-color: PaleTurquoise;
+}
+hr {
+  width: 50px;
+  border-style: dotted;
+
+    height: 2px;
+}
+h1 {
+color:  green;
+}
+h3 {
+  color: blue;
+}
